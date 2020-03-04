@@ -1,3 +1,4 @@
 # Miningmeter API
 
-Тут скоро появится описание механики работы и api проекта miningmeter.com
+Public API is availeble just in pilot mode. 
+If you want to join the testing, leave a request in the mail info@miningmeter.com
